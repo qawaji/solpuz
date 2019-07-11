@@ -132,10 +132,6 @@ class Board:
   def calc(self):
     self.next(self.boardBuff)
 
-
-
-print("Hello World")
-
 board = Board()
 board.calc()
 
